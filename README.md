@@ -1,10 +1,10 @@
 # 🧪 Rufus Leonard - News API Test 🧪
 
-In this task, we are asking you to implement a news reader. Your application will make it easy to browse a list of latest news articles based on a topic of your choosing. You will be expected to use [React](https://reactjs.org/), however, beyond this, you are free to make whatever design and technology choices that you think are best. 
+In this task, we are asking you to implement a news reader. Your application should make it easy to browse a list of latest news articles based on a topic of your choosing. You will be expected to use [React](https://reactjs.org/), however, beyond this, you are free to make whatever design and technology choices that you think are best. 
 
 ### 📊 - API Data - 📊 
 
-Your application should make use of the [newsapi](https://newsapi.org/).  You will need to create a free account to get an API key.  After creating an account querying for data shoudl be simple, as shown below:
+Your application should make use of the [newsapi](https://newsapi.org/).  You will need to create a free account to get an API key.  After creating an account, querying for data should be simple, as shown below:
 
 https://newsapi.org/v2/everything?q=bitcoin&apiKey=<APIKEY>
 
@@ -28,6 +28,6 @@ The data should be returned in this format:
 
 ### 🏆 - What We Are Looking For - 🏆 
 
-We are looking for someone with a great design eye.  The ima of this is exercise is to test this and to ensure you have a solid understanding of react and javascript.  You are free to choose how you show us your skills.  What you include is up to you.  Hand crafted grids, animations/transions, libraries, unit tests, pagination is all aceptable.  We went to see what you think will give the user a great visual experience.
+We are looking for someone with a great design eye.  The aim of this is exercise is for us to feel confident that you have a solid understanding of react and javascript and you have a good grasp on design.  You are free to choose how you want to show us your skills.  What you include and how you structure your application is up to you.  Hand crafted CSS grids, animations/transions, libraries, unit tests, pagination iare all aceptable.  We went to see what you think will give a user a great visual experience.
 
 Please send your entries to [devui@rufusleonard.com](mailto:devui@rufusleonard.com)
