@@ -2,7 +2,8 @@
 
 In this task, we are asking you to implement a news reader. Your application will make it easy to browse a list of latest news articles based on a topic of your choosing. You will be expected to use [React](https://reactjs.org/), however, beyond this, you are free to make whatever design and technology choices that you think are best. 
 
-### - 📊 API Data 📊 -
+### API Data 
+### 📊 📊 📊 
 
 Your application should make use of the [newsapi](https://newsapi.org/).  You will need to create a free account to get an API key.  After creating an account querying for data shoudl be simple, as shown below:
 
