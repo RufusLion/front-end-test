@@ -1,6 +1,6 @@
 # 🧪 Rufus Leonard - News API Test 🧪
 
-In this task, we are asking you to implement a news reader. Your application should make it easy to browse a list of latest news articles based on a topic of your choosing. You will be expected to use [React](https://reactjs.org/), however, beyond this, you are free to make whatever design and technology choices that you think are best. 
+In this task, we are asking you to create a news reader. Your application should make it easy to browse a list of latest news articles based on a topic of your choosing. You will be expected to use [React](https://reactjs.org/), however, beyond this, you are free to make whatever design and technology choices that you think are best. 
 
 ### 📊 - API Data - 📊 
 
