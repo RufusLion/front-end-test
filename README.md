@@ -2,7 +2,7 @@
 
 In this task, we are asking you to implement a news reader. Your application will make it easy to browse a list of latest news articles based on a topic of your choosing. You will be expected to use [React](https://reactjs.org/), however, beyond this, you are free to make whatever design and technology choices that you think are best. 
 
-### - 📊 - API Data - 📊 -
+### - 📊 API Data 📊 -
 
 Your application should make use of the [newsapi](https://newsapi.org/).  You will need to create a free account to get an API key.  After creating an account querying for data shoudl be simple, as shown below:
 
@@ -26,7 +26,7 @@ The data should be returned in this format:
 }
 ```
 
-### - 🏆 - What We Are Looking For - 🏆 -
+### - 🏆 What We Are Looking For 🏆 -
 
 We are looking for someone with a great design eye.  The ima of this is exercise is to test this and to ensure you have a solid understanding of react and javascript.  You are free to choose how you show us your skills.  What you include is up to you.  Hand crafted grids, animations/transions, libraries, unit tests, pagination is all aceptable.  We went to see what you think will give the user a great visual experience.
 
