@@ -28,6 +28,6 @@ The data should be returned in this format:
 
 ### 🏆 - What We Are Looking For - 🏆 
 
-We are looking for someone with a great design eye.  The aim of this is exercise is for us to feel confident that you have a solid understanding of react and javascript and you have a good grasp on design.  You are free to choose how you want to show us your skills.  What you include and how you structure your application is up to you.  Hand crafted CSS grids, animations/transions, libraries, unit tests, pagination iare all aceptable.  We went to see what you think will give a user a great visual experience.
+We are looking for someone with a great design eye.  The aim of this is exercise is for us to feel confident that you have a solid understanding of react and javascript and you have a good grasp on design.  You are free to choose how you want to show us your skills.  What you include and how you structure your application is up to you.  Hand crafted CSS grids or use of a framework is up to you.  Animations/transions, performance, SEO, testability, use of pagination are all things you could consider.  We went to see what you think will give a user a great visual experience.
 
-Please send your entries to [devui@rufusleonard.com](mailto:devui@rufusleonard.com)
+Please send your entries to [devui@rufusleonard.com](mailto:devui@rufusleonard.com).  A link toi a Githuib repo is acceptable.  Please include  README that details your technology anbd desing choices.
