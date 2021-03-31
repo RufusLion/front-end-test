@@ -6,7 +6,7 @@ In this task, we are asking you to implement a news reader. Your application wil
 
 Your application should make use of the [newsapi](https://newsapi.org/).  You will need to create a free account to get an API key.  After creating an account querying for data shoudl be simple, as shown below:
 
-https://newsapi.org/v2/everything?q=bitcoin&apiKey=<APIKEY?
+https://newsapi.org/v2/everything?q=bitcoin&apiKey=<APIKEY>
 
 ## Marking Criteria
 
